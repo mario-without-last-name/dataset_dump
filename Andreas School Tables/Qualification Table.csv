@@ -1,0 +1,36 @@
+﻿QualificationID;Qualification
+1.00;Secondary education
+2.00;Higher education - bachelor's degree
+3.00;Higher education - degree
+4.00;Higher education - master's
+5.00;Higher education - doctorate
+6.00;Frequency of higher education
+9.00;12th year of schooling - not completed
+10.00;11th year of schooling - not completed
+11.00;7th Year (Old)
+12.00;Other - 11th Year of Schooling
+13.00;2nd year complementary high school course
+14.00;10th Year of Schooling
+15.00;10th year of schooling - not completed
+18.00;General commerce course
+19.00;Basic Education 3rd Cycle (9th/10th/11th Year) or Equiv.
+20.00;Complementary High School Course
+22.00;Technical-professional course
+25.00;Complementary High School Course - not concluded
+26.00;7th year of schooling
+27.00;2nd cycle of the general high school course
+29.00;9th Year of Schooling - Not Completed
+30.00;8th year of schooling
+31.00;General Course of Administration and Commerce
+33.00;Supplementary Accounting and Administration
+34.00;Unknown
+35.00;Can't read or write
+36.00;Can read without having a 4th year of schooling
+37.00;Basic education 1st cycle (4th/5th year) or equiv.
+38.00;Basic Education 2nd Cycle (6th/7th/8th Year) or Equiv.
+39.00;Technological specialization course
+40.00;Higher education - degree (1st cycle)
+41.00;Specialized higher studies course
+42.00;Professional higher technical course
+43.00;Higher Education - Master (2nd cycle)
+44.00;Higher Education - Doctorate (3rd cycle)
